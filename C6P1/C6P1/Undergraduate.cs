@@ -31,6 +31,7 @@ namespace C6P1
             {
                 letterGrade = "B";
             }
+
             else if (StudentScore >= 80)
             {
                 letterGrade = "B-";
